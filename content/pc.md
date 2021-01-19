@@ -1,6 +1,6 @@
 ---
 title: Program Committee
-description: A tentativelist of Program Committee members, in addition to the Organizers, includes
+description: A tentative list of Program Committee members, in addition to the Organizers, includes
 ---
 
 •  Alessandro Abate (Oxford)
