@@ -8,6 +8,7 @@ googleAnalytics = ""
 [params]
     author = "Milad Kazemi"
     description = "2021 CPS-IoT Week Workshop: Verification of Autonomous & Robotic Systems ( VARS)"
+    Milad Kazemi
     githubUsername = "#"
     accent = "red"
     showBorder = true
